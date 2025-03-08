@@ -20,7 +20,7 @@ export const Hero = () => {
           Feel free to explore my work and connect with me!
           </p>
           <div className="w-fit px-6 py-3 mt-5 rounded-md bg-gradient-to-r from-rose-500 to-black-50 cursor-pointer">
-            <a href = "/Madhavendra(1)Resume.pdf" download={true}>
+            <a href = "/MadhavendraResume-3.pdf" download={true}>
               Resume
             </a>
           </div>
